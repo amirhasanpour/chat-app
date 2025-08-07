@@ -1,4 +1,4 @@
-module github.com/amirhasanpour/golang-chat-app
+module github.com/amirhasanpour/chat-app
 
 go 1.23.5
 

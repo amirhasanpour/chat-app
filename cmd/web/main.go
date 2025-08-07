@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/amirhasanpour/golang-chat-app/internal/handlers"
+	"github.com/amirhasanpour/chat-app/internal/handlers"
 )
 
 func main() {
